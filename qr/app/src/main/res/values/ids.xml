@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edu_auto_focus" type="id"/>
+    <item name="edu_decode" type="id"/>
+    <item name="edu_decode_failed" type="id"/>
+    <item name="edu_decode_succeeded" type="id"/>
+    <item name="edu_restart_preview" type="id"/>
+    <item name="edu_quit" type="id"/>
+
+</resources>

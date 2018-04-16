@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:duration="1500">
+    <scale
+        android:pivotX="50%"
+        android:pivotY="0"
+        android:fromXScale="1"
+        android:toXScale="1"
+        android:fromYScale="0"
+        android:toYScale="1"
+        android:repeatMode="restart"
+        android:repeatCount="infinite"
+        android:interpolator="@android:anim/linear_interpolator"
+        />
+</set>
+
+    <!--android:fromXDelta：动画开始点的X轴坐标。有三种表示方式，一是纯数字，使用绝对位置（比如"50"，表示以当前View左上角坐标加50px作为X坐标）；二是百分数，相对于控件本身定位（比如"50%"，表示以当前View的左上角加上当前View宽度的50%作为X坐标）；三是百分数p，相对于父控件定位（比如"50%p"，表示以当前View的左上角加上父控件宽度的50%做为X坐标）。-->
+    <!--android:fromYDelta：动画开始点的Y轴坐标。-->
+    <!--android:toXDelta：动画结束点的X轴坐标。-->
+    <!--android:toYDelta：动画结束点的Y轴坐标。-->
