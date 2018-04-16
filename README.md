@@ -10,6 +10,6 @@ allprojects {
   
   ```
   dependencies {
-	        compile 'com.github.maogedadada:qrphoto:0.01'
+	         compile 'com.github.maogedadada:qrphoto:0.0.5'
 	}
   ```
