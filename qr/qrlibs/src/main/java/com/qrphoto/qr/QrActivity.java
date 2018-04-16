@@ -80,7 +80,7 @@ public class QrActivity extends FragmentActivity implements SurfaceHolder.Callba
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_qr);
         mText = (TextView) findViewById(R.id.text);
         mTitle = (TextView) findViewById(R.id.title);
         mContainer = (RelativeLayout) findViewById(R.id.capture_containter);
