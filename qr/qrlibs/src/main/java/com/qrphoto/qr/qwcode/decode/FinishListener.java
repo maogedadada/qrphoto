@@ -4,11 +4,6 @@ import android.app.Activity;
 import android.content.DialogInterface;
 
 /**
- * 作者: 陈涛(1076559197@qq.com)
- * 
- * 时间: 2014年5月9日 下午12:24:51
- *
- * 版本: V_1.0.0
  *
  */
 public final class FinishListener

@@ -6,11 +6,6 @@ import android.os.Message;
 import android.util.Log;
 
 /**
- * 作者: 陈涛(1076559197@qq.com)
- * 
- * 时间: 2014年5月9日 下午12:21:30
- *
- * 版本: V_1.0.0
  *
  * 描述: 相机自动对焦
  */
