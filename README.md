@@ -12,7 +12,7 @@
 	
 	
 	dependencies {
-	           compile 'com.github.maogedadada:qrphoto:0.0.5'
+	            compile 'com.github.maogedadada:qrphoto:0.0.6'
 	  }
 ```
  
